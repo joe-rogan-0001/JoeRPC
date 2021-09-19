@@ -1,2 +1,2 @@
 # JoeRPC
- Basic RPC Sscript
+ Basic RPC Script
