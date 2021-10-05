@@ -1,2 +1,2 @@
 # JoeRPC
- Basic RPC Script
+ Basic RPC Script by joerogan#0001
